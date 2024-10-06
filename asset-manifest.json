@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-Email/static/css/main.baaeb63b.css",
+    "main.js": "/Task-Email/static/js/main.33a94722.js",
+    "static/js/453.e08103a1.chunk.js": "/Task-Email/static/js/453.e08103a1.chunk.js",
+    "index.html": "/Task-Email/index.html",
+    "main.baaeb63b.css.map": "/Task-Email/static/css/main.baaeb63b.css.map",
+    "main.33a94722.js.map": "/Task-Email/static/js/main.33a94722.js.map",
+    "453.e08103a1.chunk.js.map": "/Task-Email/static/js/453.e08103a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaeb63b.css",
+    "static/js/main.33a94722.js"
+  ]
+}
